@@ -73,7 +73,7 @@ contract SBFunctions is FunctionsClient, Ownable{
     ///@notice Java Script code to interact with API
     string private constant GET =
         "const response = await Functions.makeHttpRequest({"
-        "url: `https://api.sportmonks.com/v3/football/fixtures?api_token=NxfugpPu4lKerTnpocWXqjBg0QiKcz2XLLgeuQ25Du1pYMYdEqGDT7EmJNCe`,"
+        "url: `LINK-AQUI`,"
         "method: 'GET',"
         "});"
         "if (response.error) {"
