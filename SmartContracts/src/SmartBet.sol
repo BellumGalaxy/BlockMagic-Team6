@@ -17,7 +17,7 @@ pragma solidity 0.8.20;
 ///Interfaces, Libraries///
 ///////////////////////////
 
-contract BellumGalaxy {
+contract SmartBet {
 
     ///////////////////////
     ///Type declarations///
